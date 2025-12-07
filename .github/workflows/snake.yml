@@ -21,6 +21,10 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    
+    # 授予写入权限，允许推送文件到仓库
+    permissions:
+      contents: write
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -31,6 +35,9 @@ jobs:
 
       - name: Clone repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          fetch-depth: 0
     
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
