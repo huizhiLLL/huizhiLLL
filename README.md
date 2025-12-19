@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 A mechanical engineering student Immersed in **computer science** and **web full-stack development**
+- 🎓 A mechanical engineering student loving **computer science** and **web full-stack development**
 - 🎯 Want to **combine** engineering knowledge with software development skills
 
 ---
