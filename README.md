@@ -14,8 +14,9 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huizhiLLL&layout=donut)
 
-##  Contribution Graph
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huizhiLLL)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/huizhiLLL/huizhiLLL/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
