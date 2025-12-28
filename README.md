@@ -1,9 +1,3 @@
-<style>
-  body, * {
-    font-family: serif !important;
-  }
-</style>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+huizhiLLL;" />
 </div>
@@ -19,9 +13,9 @@
 
 ## About Me
 
-- <span style="font-size: 16px;">Majoring in mechanical engineering at Tongji.</span>  
-- <span style="font-size: 16px;">Currently learning full-stack web-dev.</span>  
-- <span style="font-size: 16px;">Blog : [huizhi's Aside 🌸](https://blog.huizhi.pro)</span>
+- <span style="font-size: 16px;font-family: serif;">Majoring in mechanical engineering at Tongji.</span>  
+- <span style="font-size: 16px;font-family: serif;">Currently learning full-stack web-dev.</span>  
+- <span style="font-size: 16px;font-family: serif;">Blog : [huizhi's Aside 🌸](https://blog.huizhi.pro)</span>
 ---
 
 ## My Skill Stack  
