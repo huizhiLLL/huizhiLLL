@@ -19,7 +19,7 @@
 ---
 
 ## My Skill Stack  
-<table><tr><td valign="top" width="100%">
+<table style="width: 100%;"><tr><td valign="top" style="width: 33.33%;">
 
 
 
@@ -34,7 +34,7 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="100%">
+</td><td valign="top" style="width: 33.33%;">
 
 
 
@@ -47,7 +47,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="100%">
+</td><td valign="top" style="width: 33.33%;">
 
 
 
