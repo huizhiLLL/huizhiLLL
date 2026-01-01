@@ -14,7 +14,7 @@
 - <span style="font-size: 16px;">Currently learning full-stack web-dev.</span>  
 - <span style="font-size: 16px;">Blog : [huizhi's Aside 🌸](https://blog.huizhi.ink)</span>
 
-<h2 align="left">My skill stack</h2>
+<!-- <h2 align="left">My skill stack</h2>
 <h4 align="left">Frontend</h3>
 <div align="left">
   <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" style="margin: 0 10px 10px 0;" />
@@ -44,7 +44,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 0 10px 10px 0;" />
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" style="margin: 0 10px 10px 0;" />
 </div>
-<br/>
+<br/> -->
 
 </br>
 
