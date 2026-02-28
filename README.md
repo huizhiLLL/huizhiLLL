@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://blog.huizhi.pro/"><img src="https://img.shields.io/badge/Website-Blog-ffc2d4" /></a>&emsp;
+  <a href="https://blog.huizhi.ink/"><img src="https://img.shields.io/badge/Website-Blog-ffc2d4" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=huizhiLLL&label=Views&color=abcdff&style=flat" alt="访问量统计" />&emsp;
 </div>
   
