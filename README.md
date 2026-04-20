@@ -10,7 +10,7 @@
 
 <h2 align="left">About me</h2>
 
-- <span style="font-size: 16px;">Majoring in mechanical engineering at Tongji.</span>  
+- <span style="font-size: 16px;">Majoring in mechanical engineering.</span>  
 - <span style="font-size: 16px;">Blog : [huizhi's Aside 🌸](https://blog.huizhi.ink)</span>
 
 <!-- <h2 align="left">My skill stack</h2>
