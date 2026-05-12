@@ -12,6 +12,7 @@
 
 - <span style="font-size: 16px;">Majoring in mechanical engineering.</span>  
 - <span style="font-size: 16px;">Blog : [huizhi's Aside 🌸](https://blog.huizhi.ink)</span>
+- <span style="font-size: 16px;">Weekly : [Weekly-Memos](https://weekly.huizhi.ink)</span>
 
 <!-- <h2 align="left">My skill stack</h2>
 <h4 align="left">Frontend</h3>
