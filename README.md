@@ -2,10 +2,10 @@ I'm **huizhiLLL**, majoring in mechanical and interested in cubing-dev.
 
 Know more about me on my [blog](https://blog.huizhi.ink/) & [Weekly](https://weekly.huizhi.ink/).
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://blog.huizhi.ink/"><img src="https://img.shields.io/badge/Website-Blog-ffc2d4" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=huizhiLLL&label=Views&color=abcdff&style=flat" alt="访问量统计" />&emsp;
-</div>
+</div> -->
 
 <table>
   <tr>
