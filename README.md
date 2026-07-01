@@ -9,7 +9,7 @@ Know more about me on my [blog](https://blog.huizhi.ink/) & [Weekly](https://wee
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>Projects</h3>
 
 - [DCTimer-BLE](http://dctimer.huizhi.ink/) - Speedcubing timer supporting for smart cubes , based on DCtimer.
