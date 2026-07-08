@@ -23,6 +23,6 @@ Know more about me on my [blog](https://blog.huizhi.ink/) & [Weekly](https://wee
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/huizhiLLL/huizhiLLL/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
+</div> -->
