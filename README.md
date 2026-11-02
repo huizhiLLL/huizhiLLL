@@ -16,7 +16,6 @@ Know more about me on my [blog](https://blog.huizhi.ink/) & [Weekly](https://wee
 - [DCTimer-BLE](http://dctimer.huizhi.ink/) - Speedcubing timer supporting for smart cubes , based on DCtimer.
 - [RubiKey](https://github.com/huizhiLLL/RubiKey-Android) - Control your Android device with a smart cube.
 - [astrbot_plugin_wca](https://github.com/huizhiLLL/astrbot_plugin_wca) - Cube-related query plugin (wca/one/lcx).
-- [SharpTimer](https://github.com/huizhiLLL/SharpTimer) - Win UI3 desktop-timer designed specifically for smart cubes
 
     </td>
 
